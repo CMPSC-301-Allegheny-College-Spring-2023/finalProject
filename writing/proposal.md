@@ -1,5 +1,5 @@
 # Proposal
-Due: 20 April 2023, 3pm*
+Due: 20 April 2023, 3pm
 
 ## Name(s) :
 Add Your Name Here
