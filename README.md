@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/G2Jq_bL6)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10887256&assignment_repo_type=AssignmentRepo)
 # Data Analytics (CS301) 
 
 ## Course Final Project
@@ -31,7 +33,7 @@ Figure 1: The data, when in textual form, is an unreadable script that generally
 
 Note: At this point in the class, there has already been much exposure to using many different types of statistical tools to handle different formats of data. 
 
-As with the last lab, it is therefore expected that the student will able to research code development and will be able to resolve data formatting issues during while working on the analysis of data. In particular, these skills comprise the ability to research R-statistics software packages for the application to the particular contexts for which they were designed and to extract knowledge from the produced visualizations and extracted interpretation of results. Furthermore, the student will be able to explain credible results and conclusions which are to be entirely supported by the methods and data.
+As with the last lab, it is therefore expected that the student will be able to research code development and will be able to resolve data formatting issues while working on the analysis of data. In particular, these skills comprise the ability to research R-statistics software packages for the application to the particular contexts for which they were designed and to extract knowledge from the produced visualizations and extracted interpretation of results. Furthermore, the student will be able to explain credible results and conclusions which are to be entirely supported by the methods and data.
 
 ## Group Work
 
@@ -49,11 +51,11 @@ Since much of data analysis is to provide some type of visually communicable inf
 
 This project is broad and you may use whatever tools and skills from the course or from your own research into methods. For the project assignment you are to select one application area that is of interest to you from which you can obtain data (e.g., health, politics, economics, etc.).
 
-You are to choose broad exploratory question(s) to consider in this area. Note: Please choose three or four profound inquires which are answered by data analysis.
+You are to choose a broad exploratory question(s) to consider in this area. Note: Please choose three or four profound inquiries which are answered by data analysis.
 
 Then, while keeping in mind your selected area and questions you would like to explore, find a specific real-world data set that you can analyze. Finally, you are to conduct a comprehensive analysis of your selected data set, answering questions you have designed, creating new questions to ask, and comment on any issues with the data or its analysis.
 
-You may use anything and everything we have learned (or will learn) in class and also you should research additional resources beyond of what we discussed in class. You may also extend any of the programs or concepts we have developed in the labs or in class. 
+You may use anything and everything we have learned (or will learn) in class and also you should research additional resources beyond what we discussed in class. You may also extend any of the programs or concepts we have developed in the labs or in class. 
 
 You are strongly encouraged to find new (publicly) available datasets for your study using online searches. Please see _Data_ below for more information about the dataset. 
 
@@ -67,11 +69,11 @@ Wickham et al. [2] to complete this work.
 2. Literature requirement: Research relevant background and find at least two (2) academic
 references related to the selected area and your exploratory questions.
 
-   Please do not use blogs or web sites at your references. Much of this text is likely to be unsubstantiated since it has not been subjected to an academic peer-review panel. Instead you are to use Google Scholar to locate peer-reviewed and scholarly articles which have been published by a reputable organization, and contain factual information.
+   Please do not use blogs or websites as your references. Much of this text is likely to be unsubstantiated since it has not been subjected to an academic peer-review panel. Instead you are to use Google Scholar to locate peer-reviewed and scholarly articles which have been published by a reputable organization, and contain factual information.
 
 3. Scope of your study: Determine what you would like to research. Isolate your research question into some manageable articulation that you will be able to address using an analysis of data. Try to be realistic in how you choose your research question: do not choose a topic which has too many smaller pieces that must be researched before your actual question may be addressed by analysis for discovery and conclusion.
 
-4. Data: Select a large-size, real-world data set to investigate your phenomena. Your data must be free, public and available online. Your data should also be credible and originate from sources of good standing. Please perform necessary searches to locate public and credible data sets are able to be referenced in articles. To give you ideas, there is a list of sites (below) that specialize in providing publicly available data.
+4. Data: Select a large-size, real-world data set to investigate your phenomena. Your data must be free, public and available online. Your data should also be credible and originate from sources of good standing. Please perform necessary searches to locate public and credible data sets that are able to be referenced in articles. To give you ideas, there is a list of sites (below) that specialize in providing publicly available data.
 
     Please use a new dataset which you have not used for any other project. To help get you started in this task, there are some urls available to you to investigate at the course [resources](https://www.oliverbonhamcarter.com/resources/dataanalytics_resources/) page.
 
@@ -83,7 +85,7 @@ references related to the selected area and your exploratory questions.
 
 8. Plots: Making plots, summaries and interpretations of results. You must have visualizations to show your results. You must also address any data or inherent flaws and faults of the data which cannot be easily corrected (i.e., missing data entries, data collected on skewed population, too few data-points and etc.) You are to determine some of the reasons to explain biases, discrimination, stereotypes, etc. that may be present during collection, analysis, and reflect on the latent trends in real-world data sets.
 
-9. Commit log and group effort: If your your GitHub commit log does not show continuous progression (no clusters of commits such as during the last few days of the project), then you will receive a full grade reduction for this project. Individual effort will also be accessed -- if the commit log shows significant  unequal contributions of team members, then appropriate grade reductions will be applied to non-contributing parties.
+9. Commit log and group effort: If your GitHub commit log does not show continuous progression (no clusters of commits such as during the last few days of the project), then you will receive a full grade reduction for this project. Individual effort will also be accessed -- if the commit log shows significant  unequal contributions of team members, then appropriate grade reductions will be applied to non-contributing parties.
 
 ---
 ## Parts to Complete
@@ -112,7 +114,7 @@ Please be sure to read over your document to check for spelling, grammar mistake
 
   * Please remember to include your name on everything you submit for the class. If there are no included names of the members of the group, then the instructor will be unable to award credit for your work. 
 
-  * Please submit source code that can be run as-is by the instructor during grading. All relevant code is to be un-commented, while all non-code areas in your source code are to be commented so as not to interfere with execution.
+  * Please submit source code that can be run as-is by the instructor during grading. All relevant code is to be uncommented, while all non-code areas in your source code are to be commented so as not to interfere with execution.
 
 --
 
@@ -137,18 +139,18 @@ For immediate feedback on submissions, we will be using Gator Grade to inform th
 
 The grade that a student receives on this assignment will have the following components.
 
-- **GitHub Actions CI Build Status [up to 5%]:**: For the lab01 repository associated with this assignment students will receive a checkmark grade if their last before-the-deadline build passes. This is only checking some baseline writing and commit requirements as well as correct running of the program. An additional reduction will given if the commit log shows a cluster of commits at the end clearly used just to pass this requirement. An addition reduction will also be given if there is no commit during lab work times. All other requirements are evaluated manually.
+- **GitHub Actions CI Build Status [up to 5%]:**: For the lab01 repository associated with this assignment students will receive a checkmark grade if their last before-the-deadline build passes. This is only checking some baseline writing and commit requirements as well as correct running of the program. An additional reduction will be given if the commit log shows a cluster of commits at the end clearly used just to pass this requirement. An additional reduction will also be given if there is no commit during lab work times. All other requirements are evaluated manually.
 
 - **Mastery of Technical Writing and Implementation [up to 65%]:**: Students will receive the largest portion of their grade when the source code demonstrates properly documented and implemented working code, and the responses to the writing questions presented in the `reflection.md` reveal a proficiency of both writing skills and technical knowledge. To receive full points for this component of the grade, the submitted writing should have correct spelling, grammar, and punctuation in addition to following the rules of Markdown and providing conceptually and technically accurate answers, and the source code must be correct, efficient, and properly documented.
 
 - **Presentation [up to 30%]:**
-Students will receive a checkmark grade for presentations. Student must be present and contribute to the presentation to receive credit for presentation.
+Students will receive a checkmark grade for presentations. Students must be present and contribute to the presentation to receive credit for the presentation.
 
 ---
 
 ## GatorGrade
 
-You can check the baseline writing and commit requirements for this lab assignment by running department's assignment checking `gatorgrade` tool. To use `gatorgrade`, you first need to make sure you have Python3 installed (type `python --version` to check). If you do not have Python installed, please see:
+You can check the baseline writing and commit requirements for this lab assignment by running the department's assignment checking `gatorgrade` tool. To use `gatorgrade`, you first need to make sure you have Python3 installed (type `python --version` to check). If you do not have Python installed, please see:
 
 - [Setting Up Python on Windows](https://realpython.com/lessons/python-windows-setup/)
 - [Python 3 Installation and Setup Guide](https://realpython.com/installing-python/)
